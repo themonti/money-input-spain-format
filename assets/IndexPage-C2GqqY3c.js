@@ -1,0 +1,1 @@
+import{V as e,W as s,X as t,a2 as r,a8 as o}from"./index-59g-vVoE.js";const l="/assets/quasar-logo-vertical-Dh1dpsZJ.svg",p={__name:"IndexPage",setup(_){return(c,a)=>(s(),e(o,{class:"flex flex-center"},{default:t(()=>a[0]||(a[0]=[r("img",{alt:"Quasar logo",src:l,style:{width:"200px",height:"200px"}},null,-1)])),_:1,__:[0]}))}};export{p as default};
